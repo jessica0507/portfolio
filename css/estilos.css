@@ -1,0 +1,28 @@
+.foto{
+    border-radius: 50%;
+    width: 300px;
+}
+
+.cor{
+    background-color:  rgb(126, 230, 219);
+}
+.branco{
+    background-color: white;
+}
+.cor{
+    background-color: rgb(126, 230, 219);
+}
+ 
+
+/* #apresentação{
+    background-color: rgb(126, 230, 219) ;
+}
+
+#portfolio{
+    background-color: white;
+}
+
+#sobre{
+    background-color: rgb(126, 230, 219);
+} */
+
